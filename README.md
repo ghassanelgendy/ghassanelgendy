@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ghassanelgendy&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 **ghassanelgendy/ghassanelgendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
