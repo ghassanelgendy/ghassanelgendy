@@ -1,4 +1,5 @@
 <h2 align="center"><code>Hello, world! Ghassan’s here.</code> </h2>
+<p align="center">A tech savvy from Cairo University, dabbles in web development. I Love geeking out over code, comics, and coffee 👨‍💻</p>
  <h6 align="center">
 	  <img   src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="55%" style="display:flex; justify-content:center;">
  </h1>
