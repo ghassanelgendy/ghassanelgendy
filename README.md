@@ -3,7 +3,7 @@
  <h6 align="center">
 	  <img src="https://github.com/ghassanelgendy/ghassanelgendy/assets/112765677/3f723111-6669-4a13-8052-c45b99115e46" width="55%" style="display:flex; justify-content:center;">
  </h1>
-<h3>🔭 Currently working on: </h3>![Uploading giphy.gif…]()
+<h3>🔭 Currently working on: </h3>
 
 <hr>
 <ul >
