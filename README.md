@@ -15,10 +15,11 @@
  </li>
 </ul> --> <hr>
  <h6 align="center">
+<div style="display: grid; grid-template-columns: auto auto; grid-template-rows: 1fr; justify-content: center; align-items: center; gap: 200px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghassanelgendy&theme=dracula&hide_border=true&" width="41.5%" alt="ghassanelgendy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassanelgendy&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top langs">
+</div>
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassanelgendy&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</h6>
 
 ### 📫 How to reach me:	
 <hr>
