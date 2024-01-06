@@ -3,7 +3,7 @@
  <h6 align="center">
 	  <img src="https://github.com/ghassanelgendy/ghassanelgendy/assets/112765677/3f723111-6669-4a13-8052-c45b99115e46" width="38%" style="display:flex; justify-content:center;">
  </h1>
-<h3>🔭 Currently working on: </h3>
+<!-- <h3>🔭 Currently working on: </h3>
 
 <hr>
 <ul >
@@ -13,9 +13,12 @@
  <li text-align="left">
 	  My personal website
  </li>
-</ul>
+</ul> --> <hr>
+ <h6 align="center">
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassanelgendy&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</h6>
 
 ### 📫 How to reach me:	
 <hr>
