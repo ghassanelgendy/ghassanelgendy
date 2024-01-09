@@ -1,11 +1,8 @@
 <h2 align="center"><code>Hello, world! Ghassan’s here.</code> </h2>
 <p align="center">A tech savvy from Cairo University, dabbles in web development. I Love geeking out over code, comics, and coffee 👨‍💻</p>
- <h6 align="center">
+ <p align="center">
 	  <img src="https://github.com/ghassanelgendy/ghassanelgendy/assets/112765677/3f723111-6669-4a13-8052-c45b99115e46" width="38%" style="display:flex; justify-content:center;">
- </h1>
 <!-- <h3>🔭 Currently working on: </h3>
-
-<hr>
 <ul >
 	<li text-align="left">
 		 The <a href="https://www.theodinproject.com">Odin Project</a>'s curriculum 
@@ -13,13 +10,14 @@
  <li text-align="left">
 	  My personal website
  </li>
-</ul> --> <hr>
- <h6 align="center">
-<div style="display: grid; grid-template-columns: auto auto; grid-template-rows: 1fr; justify-content: center; align-items: center; gap: 200px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghassanelgendy&theme=dracula&hide_border=true&" width="49.4%" alt="ghassanelgendy" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassanelgendy&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top langs">
+</ul> -->
+<!--  <h6 align="center"> -->
+	 
+<!--<div style="display: grid; grid-template-columns: auto auto; grid-template-rows: 1fr; justify-content: center; align-items: center; gap: 200px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghassanelgendy&theme=dracula&hide_border=true&" width="49.4%" alt="ghassanelgendy" /> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassanelgendy&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top langs"> 
 </div>
-
+-->
 
 ### 📫 How to reach me:	
 <hr>
