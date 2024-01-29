@@ -36,7 +36,7 @@
 
 - I love playing video games.
 - I'm a fan of Marvel movies and comics. _Wakanda forever_
-- I'm a gearhead who is fascinated by exotics and F1 racing 🏎
+- Car enthusiast 🏎
  
 <!--- 
 - 🌱 currently learning ...
