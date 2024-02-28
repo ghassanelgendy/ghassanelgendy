@@ -1,5 +1,5 @@
 <h2 align="center"><code>Hello, world! Ghassan’s here.</code> </h2>
-<p align="center">A tech savvy from Cairo University, dabbles in web development. I Love geeking out over code, comics, and coffee 👨‍💻</p>
+<p align="center">A tech savvy from Cairo University, dabbles in web development & security! I Love geeking out over code, comics, and coffee 👨‍💻</p>
  <p align="center">
 	  <img src="https://github.com/ghassanelgendy/ghassanelgendy/assets/112765677/3f723111-6669-4a13-8052-c45b99115e46" width="38%" style="display:flex; justify-content:center;">
 <!-- <h3>🔭 Currently working on: </h3>
