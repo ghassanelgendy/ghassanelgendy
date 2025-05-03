@@ -6,7 +6,6 @@
 	 
 
 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -31,7 +30,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-###
+![github-user-contribution](https://github.com/user-attachments/assets/eba056ed-95b8-49c4-bdab-8b415f248749)
+
 
 ### 📫 How to reach me:	
 <hr>
